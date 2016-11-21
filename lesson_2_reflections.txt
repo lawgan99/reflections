@@ -12,6 +12,8 @@ It offer opportunity to group all logical changes to be committed in
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+Add the changes into staging area as you go along. And when reviewing the changes, commit the changes when logical change is reached.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
