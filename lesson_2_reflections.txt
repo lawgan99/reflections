@@ -27,5 +27,6 @@ What is the result of merging two branches together? Why do we represent it in t
 
 It will merge incremental changes together into 1 commit. So that the diagram can represent clearly the relationship between each branch and their commits
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pro - can save trouble of comparing lines. Cons - may obmit out useline lines or introduce bugs  
