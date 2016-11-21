@@ -1,4 +1,4 @@
-What happens when you initialize a repository? Why do you need to do it?
+ What happens when you initialize a repository? Why do you need to do it?
 
 Git repository is created. So that any files changed or added is tracked under Git.
 
