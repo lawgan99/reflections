@@ -21,7 +21,6 @@ How would you collaborate without using Git or GitHub?  What would be easier, an
 
     Talk, chat, message, email. It is easier as there is personal communication which can make clarification faster. It is harder as not all the time people can communicate at the same time.
 
-When would you want to make changes in a separate branch rather than directly in
-master?  What benefits does each approach have?
+When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Make changes in a separate branch when want to test out different scenario while not impacting master.
